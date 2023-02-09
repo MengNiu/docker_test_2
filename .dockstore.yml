@@ -1,0 +1,5 @@
+version: 1.2
+tools:
+-name: WDK-101-BAM
+  - subclass: WDL
+    primaryDescriptorPath: /wdl-101-bam.wdl
